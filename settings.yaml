@@ -1,0 +1,3 @@
+default: &DEFAULT
+  JSON_PLACEHOLDER: https://jsonplaceholder.typicode.com
+  YANDEX_PASSPORT: https://passport.yandex.ru
